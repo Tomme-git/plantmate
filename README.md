@@ -1,3 +1,3 @@
 # Deployed Version
 
-https://plantmate-ai-const.onrender.com/
+https://plantmate.onrender.com/
